@@ -1,0 +1,7 @@
+
+Git init - directory-ni repository-e donusdurmek
+Git add - deyisikleri commitlemek ucun hazırlamak]
+Git commit -m "commit message" - add edilmis değişikleri commitlemek
+Git log - butun commitleri göstermek
+Git checkout <commited> - secdiyiniz bir commite keçidir etmek
+
